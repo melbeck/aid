@@ -362,7 +362,7 @@ projects[translation_overview][subdir] = contrib
 ; AID Base Features
 projects[aid_base_features][type] = module
 projects[aid_base_features][download][type] = git
-projects[aid_base_features][download][url] = git://github.com/dwabitz/aid_base_features.git
+projects[aid_base_features][download][url] = git://github.com/dwabnitz/aid_base_features.git
 projects[aid_base_features][download][branch] = dev
 projects[aid_base_features][subdir] = features
 
